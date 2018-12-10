@@ -1,0 +1,5 @@
+[book]
+authors = ["tachion"]
+multilingual = false
+src = "src"
+title = "tachion-knowledge-base"
