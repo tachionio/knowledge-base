@@ -1,1 +1,7 @@
 # protocol
+
+## DHT
+
+## NAT
+
+## GOSSIP
