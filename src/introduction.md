@@ -6,6 +6,7 @@
 - [Cryptography](./cryptography.md)
   - [Algorithm](./encryption-algorithm.md)
   - [Authenticate](./authentication.md)
+  - [Mixed-Scheme](./mixed-scheme.md)
   - [FAQ](./cryptography-faq.md)
 - [Network](./network.md)
   - [protocol](./protocol.md)
