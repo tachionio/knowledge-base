@@ -7,4 +7,6 @@ Cryptography 部分将简要列举常用的密码技术，并详解 Tachion 中�
 - [Cryptography](./cryptography.md)
   - [Algorithm](./encryption-algorithm.md)
   - [Authentication](./authentication.md)
+  - [Normal-Cryptography](./normal-cryptography.md)
   - [FAQ](./cryptography-faq.md)
+
